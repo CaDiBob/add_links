@@ -22,5 +22,5 @@ python -m pip install -r requirements.txt
 
 Запустить скрипт
 ```bash
-pyton db_fill.py
+python db_fill.py
 ```
